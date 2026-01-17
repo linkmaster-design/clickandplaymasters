@@ -1,0 +1,9 @@
+from IPython.display import HTML
+HTML("""
+<style>
+body {
+    background-color: black;
+    color: white;
+}
+</style>
+""")
